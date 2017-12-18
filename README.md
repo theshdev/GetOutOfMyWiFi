@@ -8,4 +8,4 @@ List who's on your network
 # How to install
 
 `chmod +x run.sh
-./run.sh
+./run.sh`
